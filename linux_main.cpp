@@ -4,7 +4,8 @@
      Then the designer has the option of creating a new record or viewing already created ones.
      The record of each customer is stored in a text file which is created on the data entry and is read from anytime, the record is needed to be viewed	*/
  
- 
+ //It has been edited to suit a linux operating system.
+
 #include <iostream>
 #include <fstream> // header allows to read and write to and from a file
 #include <string>
